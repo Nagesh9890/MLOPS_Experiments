@@ -60,5 +60,5 @@ Write the transformed output data to the output Kafka topic using the Kafka stre
 Set the trigger for the Spark structured streaming batch processing to be every 30 minutes using the .trigger() method.
 Start the Spark structured streaming processing using the .start() method.
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzgwNTE5ZTktMTVlYy00ZDU0LWJlNzQtMWNhY2UwNGQ3ZmVl%40thread.v2/0?context=%7b%22Tid%22%3a%22214d7fd6-9a0c-4f3f-a30f-e5a95ba18c00%22%2c%22Oid%22%3a%22d641fcd2-daeb-43c0-9ef0-c732bc737953%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTkxOTlmMWUtZmMyZS00YzgzLTk0YjMtODg4ZmRhYzkzYjVl%40thread.v2/0?context=%7b%22Tid%22%3a%22214d7fd6-9a0c-4f3f-a30f-e5a95ba18c00%22%2c%22Oid%22%3a%22444cc8c3-98f5-4561-ad98-9b9e995982e8%22%7d
 
